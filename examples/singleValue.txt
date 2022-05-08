@@ -1,0 +1,8 @@
+Key : mulesoft
+Algorithm : Blowfish
+Mode : CBC
+
+String to encrypt : thisscriptisgreat
+Encrypted String : awWLjfxN5CdpoB8KTbJL92tZ60nbOR4C
+
+Decrypted String : thisscriptisgreat
